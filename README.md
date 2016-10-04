@@ -5,3 +5,4 @@ hello master-g
 hello master
 new fature
 new fature2
+new fatrue-copy
