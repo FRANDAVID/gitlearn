@@ -6,3 +6,4 @@ hello master
 new fature
 new fature2
 new fatrue-copy
+hew fature4
