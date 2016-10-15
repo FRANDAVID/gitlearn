@@ -1,4 +1,5 @@
 hello w1ordl21hhhh`3
+<<<<<<< Updated upstream
 hello 1
 hello1
 hello master-g
@@ -16,3 +17,7 @@ f-2-1
 ello w1ordl21hhhh`3
 hello davd78cp
 hello
+=======
+hello davd6g
+
+>>>>>>> Stashed changes
